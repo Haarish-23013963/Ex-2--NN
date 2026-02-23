@@ -1,6 +1,6 @@
 <H3>Name : HAARISH V</H3>
 <H3>Register no : 212223230067</H3>
-<H3>Date :13-02-2026</H3>
+<H3>Date :23-02-2026</H3>
 <H3>Experiment No. 2 </H3>
 ## Implementation of Perceptron for Binary Classification
 # AIM:
